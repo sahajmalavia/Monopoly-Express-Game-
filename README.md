@@ -40,9 +40,3 @@ Each team member contributed to specific components, including visualization, ga
 - Additional mini-games for variety.
 - Online multiplayer support.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this as needed!
